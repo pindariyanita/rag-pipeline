@@ -7,7 +7,7 @@ A cloud-native medical question-answering system built with AWS services, featur
 
 Here are the steps for setting project in local.
 
-Clone project by running, (git clone https://github.com/pindariyanita/RAG_pipeline_task.git)
+Clone project by running, (git clone https://github.com/pindariyanita/rag-pipeline.git)
 
 (cd .\rag-pipeline\)
 
