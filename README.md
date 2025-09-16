@@ -9,6 +9,6 @@ Here are the steps for setting project in local.
 
 Clone project by running, (git clone https://github.com/pindariyanita/RAG_pipeline_task.git)
 
-(cd .\rag-pipelin\)
+(cd .\rag-pipeline\)
 
 For installing all the dependencies, please run (pip install -r requirements.txt)
