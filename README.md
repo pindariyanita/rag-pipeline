@@ -4,3 +4,11 @@ A cloud-native medical question-answering system built with AWS services, featur
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f9cf8ac-55e6-4d67-9859-b5374093a6e3" />
 
+
+Here are the steps for setting project in local.
+
+Clone project by running, (git clone https://github.com/pindariyanita/RAG_pipeline_task.git)
+
+(cd .\rag-pipelin\)
+
+For installing all the dependencies, please run (pip install -r requirements.txt)
